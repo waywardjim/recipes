@@ -2,7 +2,7 @@
 
 ## Ingredients
 - avocados
-- lime juice
+- lemon juice
 - salt
 - red chillies
 
