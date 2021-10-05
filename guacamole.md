@@ -1,4 +1,8 @@
 # Guacamole Recipe
 
-# Ingredients
-# Instructions
+## Ingredients
+- avocados
+- lime juice
+- salt
+- red chillies
+## Instructions
